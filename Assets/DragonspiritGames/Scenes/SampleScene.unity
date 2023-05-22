@@ -405,12 +405,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1173454267 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 6822415454961811466, guid: 0108362396228484aa20522f15ae87f1,
-    type: 3}
-  m_PrefabInstance: {fileID: 5438552921733674065}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5325602120435509716
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -492,16 +486,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube
       objectReference: {fileID: 0}
-    - target: {fileID: 5438552920745354585, guid: 0108362396228484aa20522f15ae87f1,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5438552920745354586, guid: 0108362396228484aa20522f15ae87f1,
-        type: 3}
-      propertyPath: animator
-      value: 
-      objectReference: {fileID: 1173454267}
     - target: {fileID: 5438552920745354587, guid: 0108362396228484aa20522f15ae87f1,
         type: 3}
       propertyPath: m_RootOrder
